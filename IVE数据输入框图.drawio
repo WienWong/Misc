@@ -1,86 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T03:25:09.370Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="PFlU2YwUzXSLaukcpGBS" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-30T03:37:25.149Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="LhPnIFIw8OLVEO3OimHq" version="13.10.4" type="github">
   <diagram id="-yP0t2fsVPUSu2jfrDDp" name="Page-1">
-    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cXt5EJawHxJDnATNH1I1-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;交通数据(车流量，车速)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="cXt5EJawHxJDnATNH1I1-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cXt5EJawHxJDnATNH1I1-1" target="cXt5EJawHxJDnATNH1I1-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cXt5EJawHxJDnATNH1I1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="90" width="220" height="340" as="geometry" />
+        <mxCell id="cXt5EJawHxJDnATNH1I1-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;交通数据(车流量，车速)&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cXt5EJawHxJDnATNH1I1-2" target="cXt5EJawHxJDnATNH1I1-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="220" height="340" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;高架快速路&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;主干道&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-5" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;次干道&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;支路&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="354" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="414" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-7" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;分道路等级&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="100" width="110" height="20" as="geometry" />
+          <mxGeometry x="305" y="160" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cXt5EJawHxJDnATNH1I1-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="50" width="530" height="620" as="geometry" />
+        <mxCell id="cXt5EJawHxJDnATNH1I1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXt5EJawHxJDnATNH1I1-8" target="cXt5EJawHxJDnATNH1I1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="10" width="530" height="620" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-9" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;交通数据车队划分&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="60" width="160" height="20" as="geometry" />
+          <mxGeometry x="735" y="20" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-10" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="100" width="150" height="190" as="geometry" />
+          <mxGeometry x="570" y="60" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-11" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;拍照种类&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="110" width="110" height="20" as="geometry" />
+          <mxGeometry x="590" y="70" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;外牌车辆&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-13" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;武汉车辆&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="585" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="740" y="100" width="150" height="550" as="geometry" />
+          <mxGeometry x="740" y="60" width="150" height="550" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-15" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;车辆类型&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="110" width="110" height="20" as="geometry" />
+          <mxGeometry x="760" y="70" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;轻型客车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-17" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;轻型货车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-18" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;重型客车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-19" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;重型货车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="354" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="314" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;出租车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="426" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-21" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;公交车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="496" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="456" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-22" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;摩托车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="755" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="100" width="150" height="190" as="geometry" />
+          <mxGeometry x="910" y="60" width="150" height="190" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-24" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;燃料种类&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="110" width="110" height="20" as="geometry" />
+          <mxGeometry x="930" y="70" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-25" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;汽油车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="925" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="925" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cXt5EJawHxJDnATNH1I1-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;柴油车&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="925" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="925" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXt5EJawHxJDnATNH1I1-28" target="cXt5EJawHxJDnATNH1I1-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;道路GPS数据&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXt5EJawHxJDnATNH1I1-29" target="cXt5EJawHxJDnATNH1I1-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-29" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;车管所数据库及牌照识别&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cXt5EJawHxJDnATNH1I1-30" target="cXt5EJawHxJDnATNH1I1-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-30" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;车辆工况&lt;br&gt;数据库&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXt5EJawHxJDnATNH1I1-32" target="cXt5EJawHxJDnATNH1I1-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-32" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;道路车辆&lt;br&gt;技术分布&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cXt5EJawHxJDnATNH1I1-33" target="cXt5EJawHxJDnATNH1I1-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-33" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;油品、温湿度、IM等参数设置&lt;br&gt;热浸时间分布&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="680" width="285" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cXt5EJawHxJDnATNH1I1-37" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;IVE模型&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
