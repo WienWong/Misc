@@ -1,1 +1,118 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T08:50:37.723Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" version="13.10.4" etag="x15NoiEcUWtWZP_1CgrT" type="github"><diagram id="U5beLIiQJ9dUrQ34KQQU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-30T10:25:16.503Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-OsTG9d9634JTy2sMmyk" version="13.10.4" type="github">
+  <diagram id="U5beLIiQJ9dUrQ34KQQU" name="Page-1">
+    <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="35rY1FEg8uixYlM4IC-K-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="220" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-26" target="35rY1FEg8uixYlM4IC-K-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-26" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;计算时段&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="174.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-32" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;实时交通信息&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="125" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-33" value="&lt;b style=&quot;font-size: 18px&quot;&gt;计算对应时段&lt;br&gt;和路段的车型流量&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="357.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-35" value="&lt;b style=&quot;font-size: 18px&quot;&gt;提取对应时段&lt;br&gt;的环境参数&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="162" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-36" value="&lt;b style=&quot;font-size: 18px&quot;&gt;提取对应时段&lt;br&gt;和路段的车流分布&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="258.5" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-37" value="&lt;b style=&quot;font-size: 18px&quot;&gt;提取相应车速段&lt;br&gt;的VSP分布数据&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="440" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-38" value="&lt;b style=&quot;font-size: 18px&quot;&gt;提取各车型的&lt;br&gt;基础排放因子&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="520" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;排放基础数据&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="125" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-40" value="&lt;b style=&quot;font-size: 18px&quot;&gt;路段编号&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="221.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-41" target="35rY1FEg8uixYlM4IC-K-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-41" value="&lt;b style=&quot;font-size: 18px&quot;&gt;路段类型&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="82.5" y="271.5" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-42" value="&lt;b style=&quot;font-size: 18px&quot;&gt;路段长度&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-43" target="35rY1FEg8uixYlM4IC-K-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-43" value="&lt;b style=&quot;font-size: 18px&quot;&gt;车流总量&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-44" target="35rY1FEg8uixYlM4IC-K-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-44" value="&lt;b style=&quot;font-size: 18px&quot;&gt;平均车速&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="421" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-47" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;IVE模型&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="680" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-51" target="35rY1FEg8uixYlM4IC-K-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-51" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;环境参数&lt;br&gt;数据库&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="154.5" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-52" target="35rY1FEg8uixYlM4IC-K-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-52" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;车流分布&lt;br&gt;数据库&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="250.5" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-53" target="35rY1FEg8uixYlM4IC-K-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-53" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;VSP分布&lt;br&gt;数据库&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="350" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-54" target="35rY1FEg8uixYlM4IC-K-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-54" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;车辆技术&lt;br&gt;数据库&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="455" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-55" target="35rY1FEg8uixYlM4IC-K-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-55" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;&lt;br&gt;基础排放因子数据库&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="800" y="555" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-64" target="35rY1FEg8uixYlM4IC-K-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-64" value="&lt;b style=&quot;font-size: 18px&quot;&gt;判断日期&lt;br&gt;和时间&lt;/b&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="297" y="154" width="135" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-67" target="35rY1FEg8uixYlM4IC-K-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-67" value="&lt;b style=&quot;font-size: 18px&quot;&gt;判断道路&lt;br&gt;类型&lt;/b&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="297" y="252.5" width="135" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="35rY1FEg8uixYlM4IC-K-73" target="35rY1FEg8uixYlM4IC-K-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="35rY1FEg8uixYlM4IC-K-73" value="&lt;b style=&quot;font-size: 18px&quot;&gt;判断对应&lt;br&gt;车速段&lt;/b&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="280" y="402.25" width="135" height="72.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
