@@ -1,47 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2021-04-02T02:58:16.209Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="kCTxbJprQfOtTmUchHzL" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-02T03:01:52.039Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qgh-nudah9WP1qTAGgVE" version="14.5.4" type="github">
   <diagram id="CJrdobW5BP4ZCAPr7y61" name="Page-1">
     <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mn6eRh8IaDrxK1ROBiQj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-1" target="mn6eRh8IaDrxK1ROBiQj-3">
+        <mxCell id="mn6eRh8IaDrxK1ROBiQj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-1" target="mn6eRh8IaDrxK1ROBiQj-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mn6eRh8IaDrxK1ROBiQj-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;三维荧光图谱数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mn6eRh8IaDrxK1ROBiQj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-2" target="mn6eRh8IaDrxK1ROBiQj-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mn6eRh8IaDrxK1ROBiQj-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;荧光数据矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mn6eRh8IaDrxK1ROBiQj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-3" target="mn6eRh8IaDrxK1ROBiQj-2">
+        <mxCell id="mn6eRh8IaDrxK1ROBiQj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-3" target="mn6eRh8IaDrxK1ROBiQj-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mn6eRh8IaDrxK1ROBiQj-3" value="&lt;span style=&quot;font-size: 24px&quot;&gt;预处理&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="347" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mn6eRh8IaDrxK1ROBiQj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-4" target="mn6eRh8IaDrxK1ROBiQj-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mn6eRh8IaDrxK1ROBiQj-4" value="&lt;font style=&quot;font-size: 24px&quot;&gt;计算 Ex&amp;nbsp;&lt;br&gt;Ey分布&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="347" y="410" width="126" height="60" as="geometry" />
+          <mxGeometry x="537" y="200" width="126" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mn6eRh8IaDrxK1ROBiQj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-5" target="mn6eRh8IaDrxK1ROBiQj-6">
+        <mxCell id="mn6eRh8IaDrxK1ROBiQj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-5" target="mn6eRh8IaDrxK1ROBiQj-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mn6eRh8IaDrxK1ROBiQj-5" value="&lt;font style=&quot;font-size: 24px&quot;&gt;寻找&lt;br&gt;峰分布&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mn6eRh8IaDrxK1ROBiQj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-6" target="mn6eRh8IaDrxK1ROBiQj-7">
+        <mxCell id="mn6eRh8IaDrxK1ROBiQj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-6" target="mn6eRh8IaDrxK1ROBiQj-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mn6eRh8IaDrxK1ROBiQj-6" value="&lt;font style=&quot;font-size: 24px&quot;&gt;计算&lt;br&gt;相关性&lt;br&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="347" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mn6eRh8IaDrxK1ROBiQj-7" value="&lt;font style=&quot;font-size: 24px&quot;&gt;相似度&lt;br&gt;匹配矩阵&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mn6eRh8IaDrxK1ROBiQj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mn6eRh8IaDrxK1ROBiQj-16" target="mn6eRh8IaDrxK1ROBiQj-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mn6eRh8IaDrxK1ROBiQj-16" value="&lt;span style=&quot;font-size: 24px&quot;&gt;标准化&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
