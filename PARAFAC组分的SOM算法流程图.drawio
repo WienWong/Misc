@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T07:18:15.370Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Nc3VksYEl-eQNzj4htVJ" version="14.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-06T07:20:03.816Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="x4pG8HRbfA3fyd7sbnI1" version="14.5.4" type="github">
   <diagram id="taQ7VdK2Xbz5WA_EDbCL" name="Page-1">
     <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="b7OWWv35G4zk7WAT0iNo-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;PARAFAC中的Fmax&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="155" y="230" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b7OWWv35G4zk7WAT0iNo-5" value="&lt;span style=&quot;font-size: 18px&quot;&gt;PARAFAC输出数据&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7OWWv35G4zk7WAT0iNo-5" value="&lt;font style=&quot;font-size: 20px&quot;&gt;PARAFAC输出数据&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="170" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b7OWWv35G4zk7WAT0iNo-6" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Ex/Em波长对&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="b7OWWv35G4zk7WAT0iNo-10" value="&lt;font style=&quot;font-size: 18px&quot;&gt;数据初始化及标准化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="155" y="430" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="b7OWWv35G4zk7WAT0iNo-11" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SOM分析&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7OWWv35G4zk7WAT0iNo-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;SOM分析&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="370" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b7OWWv35G4zk7WAT0iNo-12" value="&lt;font style=&quot;font-size: 18px&quot;&gt;最优映射选择&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="b7OWWv35G4zk7WAT0iNo-15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="231.5" y="567" width="423" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="b7OWWv35G4zk7WAT0iNo-17" value="&lt;span style=&quot;font-size: 18px&quot;&gt;SOM可视化&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="b7OWWv35G4zk7WAT0iNo-17" value="&lt;font style=&quot;font-size: 20px&quot;&gt;SOM可视化&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="342" y="584" width="195" height="40" as="geometry" />
         </mxCell>
         <mxCell id="b7OWWv35G4zk7WAT0iNo-18" value="&lt;font style=&quot;font-size: 18px&quot;&gt;码本向量&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
