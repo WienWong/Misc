@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-04-06T05:27:15.607Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" version="14.5.4" etag="A-VQ-shbCOXUw86RHavC" type="github"><diagram id="1-btSKzoEJkCLD6Q1Yo5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-06T05:37:32.304Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Mr8eKG9hkSvOhBCt5-QT" version="14.5.4" type="github">
+  <diagram id="1-btSKzoEJkCLD6Q1Yo5" name="Page-1">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FXfrInpH9SstkM4S5mW5-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;三维荧光 &lt;br&gt;快速检测预处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="270" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfrInpH9SstkM4S5mW5-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="FXfrInpH9SstkM4S5mW5-2" target="FXfrInpH9SstkM4S5mW5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfrInpH9SstkM4S5mW5-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;原始&lt;br&gt;荧光数据&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfrInpH9SstkM4S5mW5-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FXfrInpH9SstkM4S5mW5-3" target="FXfrInpH9SstkM4S5mW5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfrInpH9SstkM4S5mW5-3" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;超纯水&lt;br&gt;荧光数据&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="570" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfrInpH9SstkM4S5mW5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FXfrInpH9SstkM4S5mW5-4" target="FXfrInpH9SstkM4S5mW5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfrInpH9SstkM4S5mW5-4" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;去除散射&lt;/b&gt;&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfrInpH9SstkM4S5mW5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FXfrInpH9SstkM4S5mW5-5" target="FXfrInpH9SstkM4S5mW5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfrInpH9SstkM4S5mW5-5" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;三角插值&lt;/b&gt;&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FXfrInpH9SstkM4S5mW5-6" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;无干扰&lt;br&gt;荧光数据&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
